@@ -44,3 +44,9 @@ Install the required packages using:
 ```r
 BiocManager::install(c("clusterProfiler", "pathview", "enrichplot", "DOSE", "ggridges", "europepmc"))
 ```
+
+```bash
+git clone https://github.com/swayamjk10/GSEA_Analysis.git
+cd GSEA_Analysis
+```
+
